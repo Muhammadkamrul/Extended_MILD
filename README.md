@@ -8,7 +8,7 @@ Information and Computer Science Department,
 King Fahd University of Petroleum & Minerals (KFUPM),
 Dhahran, Saudi Arabia.
 
-## This is the official implementation for our paper submitted to IEEE Transactions on Machine Learning in Communications and Networking.
+## This is the official implementation for our paper submitted to IEEE Transactions on Network and Service Management (IEEE TNSM).
 
 ## Guide to Run
 
